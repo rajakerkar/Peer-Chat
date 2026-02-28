@@ -1,8 +1,4 @@
 
----
-
-### README.md Content
-
 ```markdown
 # P2P Mesh Chat 🚀
 
